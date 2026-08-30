@@ -1,0 +1,11 @@
+[package]
+name = "todo-list"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sqlx = { version = "0.9", features = [ "runtime-tokio", "postgres" ] }
+tokio = { version = "1", features = ["full"] }
+dotenv = "0.15.0"
+rprompt = "2.2"
+inquire = "0.9.4"
