@@ -75,7 +75,6 @@ cargo run
 
 <div align="center">
     <img src="assets/example.png"/>
-    <p>This is how the program works</p>
 </div>
 
 # Documentation
