@@ -62,7 +62,11 @@ cd Rust-Basics/reminder-list
 docker compose up -d --build
 ```
 
-## 3. Start the program
+## 3. Run migrations
+```bash
+sqlx migrate run
+```
+## 4. Start the program
 ```bash
 cargo run
 ```
