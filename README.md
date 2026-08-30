@@ -12,18 +12,18 @@
 <div align="center">
     <!-- Stars -->
     <a href="https://github.com/Xoppee931/Rust-Basics/stargazers">
-        <img src="https://img.shields.io/github/stars/Xoppee931/Rust-Basics?style=for-the-badge&logo=github&color=gold" alt="Stars"/>
+        <img src="https://img.shields.io/github/stars/Xoppee931/Reminder-List?style=for-the-badge&logo=github&color=gold" alt="Stars"/>
     </a>
     <!-- Forks -->
-    <a href="https://github.com/Xoppee931/Rust-Basics/network/members">
-        <img src="https://img.shields.io/github/forks/Xoppee931/Rust-Basics?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
+    <a href="https://github.com/Xoppee931/Reminder-List/network/members">
+        <img src="https://img.shields.io/github/forks/Xoppee931/Reminder-List?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
     </a>
     <!-- Open Issues -->
-    <a href="https://github.com/Xoppee931/Rust-Basics/issues">
+    <a href="https://github.com/Xoppee931/Reminder-List/issues">
         <img src="https://img.shields.io/github/issues/Xoppee931/Rust-Basics?style=for-the-badge&logo=github&color=red" alt="Issues"/>
     </a>
     <!-- Last Commit -->
-    <img src="https://img.shields.io/github/last-commit/Xoppee931/Rust-Basics?style=for-the-badge&logo=git&color=green" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/last-commit/Xoppee931/Reminder-List?style=for-the-badge&logo=git&color=green" alt="Last Commit"/>
 </div>
 
 # Features
